@@ -8,4 +8,5 @@ def main():
     resultado = fatorial(N)
     print(f"O fatorial de {N} é: {resultado}")
 if __name__ == "__main__":
-    main()
+     main()
+
